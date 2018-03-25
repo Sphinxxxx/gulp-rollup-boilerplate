@@ -45,6 +45,10 @@ From https://stackoverflow.com/a/19689284/1869660, alternative to https://gist.g
     $ git commit -am "First commit - boilerplate"
     $ git push
 ```
+    
+**Notes:**
+ * If you publish your library to npm, the included scripts will automatically tag and push all changes to git when you run `npm publish`.
+ * If you don't want to publish to npm, you can also run `npm run postpublish` if you only want to tag and push your changes.
 
 
 ## Options
