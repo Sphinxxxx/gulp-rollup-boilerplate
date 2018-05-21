@@ -1,6 +1,6 @@
 {
   "name": "gulp-rollup-boilerplate",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A boilerplate for building JS libraries with Gulp and Rollup.",
   "author": "boilerplate-author",
   "homepage": "https://github.com/Sphinxxxx/gulp-rollup-boilerplate",
@@ -33,7 +33,7 @@
     "gulp-rename": "^1.2.2",
     "gulp-strip-comments": "^2.5.2",
     "gulp-uglify": "^3.0.0",
-    "rollup": "^0.56.2",
+    "rollup": "^0.59.1",
     "rollup-plugin-babel": "^3.0.3",
     "rollup-plugin-node-resolve": "^3.0.3"
   }
