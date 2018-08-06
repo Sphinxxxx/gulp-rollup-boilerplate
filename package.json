@@ -1,6 +1,6 @@
 {
   "name": "gulp-rollup-boilerplate",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A boilerplate for building JS libraries with Gulp and Rollup.",
   "author": "boilerplate-author",
   "homepage": "https://github.com/Sphinxxxx/gulp-rollup-boilerplate",

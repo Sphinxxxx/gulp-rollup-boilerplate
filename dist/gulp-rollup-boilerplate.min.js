@@ -1,5 +1,5 @@
 /*!
- * gulp-rollup-boilerplate v0.1.1
+ * gulp-rollup-boilerplate v0.1.2
  * https://github.com/Sphinxxxx/gulp-rollup-boilerplate
  *
  * Copyright 2018 boilerplate-author
