@@ -13,7 +13,8 @@
     "url": "https://github.com/Sphinxxxx/gulp-rollup-boilerplate/issues"
   },
   "main": "dist/gulp-rollup-boilerplate.js",
-  "module": "src/boilerplate.js",
+  "unpkg": "dist/gulp-rollup-boilerplate.min.js",
+  "module": "src/index.js",
   "files": [
     "src/",
     "dist/"

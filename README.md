@@ -30,6 +30,8 @@ From https://stackoverflow.com/a/19689284/1869660, alternative to https://gist.g
 ```
 3: Search through package.json and gulpfile.babel.js for "boilerplate" and insert real names.
 
+    $ grep  -i -r -I  -l  'boil' .
+
 4: Commit/push as usual *):
 
     $ git add -A
